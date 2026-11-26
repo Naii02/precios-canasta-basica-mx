@@ -1,6 +1,7 @@
 # ¿Dónde rinde más tu dinero? Precios de la canasta básica en México (Profeco + INPC, 2026)
 
 Proyecto TECNOLOCHICAS _Procesamiento de datos con Python_.
+
 Autora: Nailea Tania Castro Vazquez
 
 ---
