@@ -1,6 +1,7 @@
 # ¿Dónde rinde más tu dinero? Precios de la canasta básica en México (Profeco + INPC, 2026)
 
 Proyecto TECNOLOCHICAS _Procesamiento de datos con Python_.
+
 Autora: Nailea Tania Castro Vazquez
 
 ---
@@ -59,6 +60,13 @@ Las hipótesis se plantean a partir de una exploración preliminar con la primer
 - **H2.** Las tiendas de conveniencia (por ejemplo, Oxxo y Minisuper) tienen índices de precio más altos que los supermercados y bodegas para los mismos productos básicos.
 - **H3.** La evolución mensual del índice de precios de Profeco sigue la misma tendencia que la variación del INPC entre enero y septiembre de 2026.
 - **H4.** Los precios de los útiles escolares aumentan en las quincenas de regreso a clases (agosto) respecto a los meses anteriores.
+
+## Limitaciones
+
+- **Cobertura temporal de Profeco:** los datos llegan hasta octubre de 2026, por lo que no incluyen el Buen Fin ni la temporada decembrina. Cuando se publiquen, el proceso puede repetirse con los archivos nuevos.
+- **INPC:** el archivo llega hasta septiembre de 2026, así que la comparación con Profeco cubre de enero a septiembre.
+- **INPC nacional:** no hay desglose por ciudad ni por estado.
+- **Cobertura desigual:** en la muestra de julio, la CDMX y el Estado de México concentraban cerca del 36% de los registros y faltaban 3 estados. Se verificará con los 10 meses.
 
 ## Estructura del repositorio
 
