@@ -222,5 +222,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Datos pesados (no subir a GitHub)
+# Datos pesados 
 datos/crudos/
+
+#Datos limpios
+datos/limpios/
